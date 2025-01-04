@@ -8,9 +8,6 @@
   <a href="http://www.linkedin.com/in/baggio-matteo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-in/baggio--matteo-0077B5.svg">
   </a>  
-  <a href="mailto:morningape@protonmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-ProtonMail-6D4AFF.svg">
-  </a>
 </p>
 
 <h3 align="center"> I'm a Software Engineer. </h3>
