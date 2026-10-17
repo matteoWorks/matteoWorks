@@ -1,17 +1,16 @@
 <h1 align="center"> Hello, I'm Matteo. </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShameIRL&label=Visits&color=0077B5">
-  <a href="https://matteobaggio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-matteobaggio.com-272727.svg">
+  <img src="https://komarev.com/ghpvc/?username=matteoWorks&label=Visits&color=0077B5&base=533" alt="Visits" />
+  <a href="https://matteobaggio.com">
+    <img src="https://img.shields.io/badge/Website-matteobaggio.com-272727.svg" alt="Website" />
   </a>
-  <a href="http://www.linkedin.com/in/baggio-matteo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-in/baggio--matteo-0077B5.svg">
+  <a href="http://www.linkedin.com/in/baggio-matteo">
+    <img src="https://img.shields.io/badge/LinkedIn-in/baggio--matteo-0077B5.svg" alt="LinkedIn" />
   </a>  
 </p>
 
 <h3 align="center"> I'm a Software Engineer. </h3>
-<h3 align="center"> I'm currently passionate about Artificial Intelligence and its Applications. </h3>
 
 <h1></h1>
 
